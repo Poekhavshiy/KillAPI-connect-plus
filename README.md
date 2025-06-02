@@ -37,7 +37,7 @@ KillAPI Connect Plus works alongside the Gunhead Discord Bot, a custom bot for t
 ## Installation
 
 1. **Download the Application**:
-   - [Download the latest version](https://github.com/Poekhavshiy/KillAPI-connect-plus/releases/latest/download/KillAPi.connect.exe).
+   - [Download the latest version](https://bagman.sparked.network/static/updates/KillApiConnectPlusSetup.msi).
 
 2. **Run the Application**:
    - Double-click `KillAPI.connect.exe` or run from the command line:
