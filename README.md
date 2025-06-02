@@ -9,30 +9,6 @@ KillAPI Connect Plus is a cross-platform desktop application written in C++ (usi
 KillAPI Connect Plus works alongside the Gunhead Discord Bot, a custom bot for the Gunhead community. The bot processes and displays Star Citizen event logs in Discord.  
 **To use the bot:**
 - [Install the bot from the Discord App Store](https://discord.com/discovery/applications/1330870778891206707).
-- Choose or create a Discord channel for event logs.
-- Use `/api subscribe` to add the event feed to the channel.
-- Use `/api killfeed` to create the event stream window.
-- Users can view their API keys with `/api show_key`.
-- Remove a user's API key with `/api removeuser <USERNAME>`.
-- Unsubscribe a channel with `/api unsubscribe`.
-
----
-
-## Features
-
-- **Real-Time Log Monitoring**: Continuously monitor Star Citizen event logs for instant updates.
-- **Customizable Log Display**: Change background color, text color, and font size of the log window.
-- **Window Management**: The `LogDisplayWindow` remembers its position, size, and visibility across sessions.
-- **Settings Management**: All configurations are saved using Qt's settings system (platform-native or INI).
-- **Update Checker**: Check for new versions manually or automatically at startup.
-- **Error Handling**: Detailed error messages and logs for troubleshooting.
-- **Language Support**: Translatable user interface with multiple language options.
-- **Theme Support**: Select from multiple UI themes, with "originalsleek" as the default.
-- **API Key Management**: Securely store and validate your Gunhead API key.
-- **Debug & Console Modes**: Launch with `--debug` and/or `--console` for verbose logging.
-- **Settings Reset**: Launch with `--clear-settings` to reset all configuration to defaults.
-
----
 
 ## Installation
 
