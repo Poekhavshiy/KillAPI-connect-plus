@@ -8,7 +8,7 @@ KillAPI Connect Plus is a cross-platform desktop application written in C++ (usi
 
 ## Gunhead Discord Bot Integration
 
-KillAPI Connect Plus works alongside the Gunhead Discord Bot, a custom bot for the Gunhead community. The bot processes and displays Star Citizen event logs in Discord.  
+KillAPI Connect Plus works alongside the Gunhead Discord Bot. The bot processes and displays Star Citizen event logs in Discord.  
 **To use the bot:**
  [Install the bot from the Discord App Store](https://discord.com/discovery/applications/1330870778891206707).
 
